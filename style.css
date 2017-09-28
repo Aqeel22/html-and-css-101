@@ -1,0 +1,15 @@
+
+body {
+  background-color: grey;
+}
+.logo a{
+  display: inline;
+  text-decoration: none;
+}
+ li {
+  list-style: none;
+  display: inline-block;
+  color:white;
+  font-size: 20px;
+  padding: 20px;
+}
